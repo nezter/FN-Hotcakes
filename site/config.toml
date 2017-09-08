@@ -60,12 +60,12 @@ theme = "hugo-freelancer-theme"
     [params.about]
         title = "About Our FN-Sweetness"
         # The about text is splitted into a left and right column
-        left = "Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization."
-        right = "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!"
+        left = "FN-Hotcakes is Run by a highly motivated team of odd balls. FN-Hotcakes was blossomed from an opportunity and pure fun. The unicorns wished they could shit the gold we are creating. Join the movement and grab a ride on the mastodon (We braid their hair). They are magical. "
+        right = "The team is made up of FN Salted Caramel the Designer, FN Banana Choc Chip the networker and lastly the FN Plain N Boring businessman. This group of delicious qualities are here to provide some of the best ideas you can ever imagine. It is a think tank bough from a pot of gold found at the end of a rainbow. So you know this means they are lucky. Reach out today and experience the magic!      "
 
         [params.about.button]
-            text = "Download theme"
-            link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
+            text = "Download Sample Project Inqury"
+            link = "#"
             icon = "download"
 
 
