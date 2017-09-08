@@ -51,8 +51,8 @@ theme = "hugo-freelancer-theme"
         title = "Patches"
 
         [params.portfolio.modal]
-            client = "Client"
-            date = "Date"
+            client = "Name"
+            date = "Type"
             category = "Category"
             buttontext = "Close"
 
