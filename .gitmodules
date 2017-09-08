@@ -1,9 +1,1 @@
-[submodule "themes/hugo-tracks-theme"]
-  path = themes/hugo-tracks-theme
-  url = https://github.com/ageekymonk/hugo-tracks-theme.git
-[submodule "themes/hugrid"]
-  path = themes/hugrid
-  url = https://github.com/aerohub/hugrid
-
-
 

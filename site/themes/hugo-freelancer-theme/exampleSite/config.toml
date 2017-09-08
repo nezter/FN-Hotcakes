@@ -1,8 +1,8 @@
 # Site settings
-baseurl = "/"
+baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "FN-Hotcakes"
-theme = "FN-hotcakes"
+title = "Hugo Freelancer Theme"
+theme = "hugo-freelancer-theme"
 
 
 [params]
@@ -12,8 +12,8 @@ theme = "FN-hotcakes"
 
     # To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-    name = "Mr. Hotcake"
-    description = "I sell all the hotcakes"
+    name = "Mr. Hugo"
+    description = "My awesome description"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -33,14 +33,14 @@ theme = "FN-hotcakes"
 	custom_js  = []
 
     [params.navigation]
-        brand = "FN-hotcakes"
+        brand = "Mr. Hugo's Portfolio"
 
 
     [params.header]
         # Copy your own image into './static/img/'' if you wish
-        image = "pancakes.svg"
-        name = "The FN-Hotcake"
-        subtitle = "WE Sell - Them Like - FN-Hotcakes"
+        image = "profile.png"
+        name = "Mr. Hugo"
+        subtitle = "Blogger - Programmer - Gopher"
 
 
     [params.portfolio]
@@ -48,7 +48,7 @@ theme = "FN-hotcakes"
         # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
         # at the root of this Hugo site.
         # For more informtion take a look at the README.
-        title = "Patches"
+        title = "Portfolio"
 
         [params.portfolio.modal]
             client = "Client"
@@ -58,7 +58,7 @@ theme = "FN-hotcakes"
 
 
     [params.about]
-        title = "About Our FN-Sweetness"
+        title = "About"
         # The about text is splitted into a left and right column
         left = "Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization."
         right = "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!"
@@ -70,7 +70,7 @@ theme = "FN-hotcakes"
 
 
     [params.contact]
-        title = "FN-Contact-US"
+        title = "Contact"
 
         # 'error' defines error messages for invalid inputs
         [params.contact.form.name]
