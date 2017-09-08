@@ -97,9 +97,9 @@ theme = "hugo-freelancer-theme"
         copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
 
         [params.footer.location]
-            title = "Location"
+            title = "Team"
             # Postal address (add as many lines as necessary)
-            address = ["3481 Melrose Place", "Beverly Hills, CA 90210"]
+            address = ["FN Salted Caramel the Designer", "FN Banana Choc Chip the networker" ,"FN Plain N Boring businessman"]
 
         [params.footer.social]
             title = "Around the web"
@@ -108,13 +108,13 @@ theme = "hugo-freelancer-theme"
             # CSS class.
             [[params.footer.social.networks]]
                 icon = "fa-github"
-                link = "//github.com/spf13/hugo"
+                link = ""
 
             [[params.footer.social.networks]]
                 icon = "fa-stack-overflow"
-                link=  "//stackoverflow.com/questions/tagged/hugo"
+                link=  ""
 
 
         [params.footer.credits]
-            title = "About Freelancer"
-            text = "Freelance is a free to use, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com)."
+            title = "We Are FN Delectible"
+            text = "What are you doing looking down here. Contact us right now!"
