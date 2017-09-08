@@ -2,7 +2,7 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "FN-Hotcakes"
-theme = "FN-hotcakes"
+theme = "hugo-freelancer-theme"
 
 
 [params]
