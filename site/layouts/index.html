@@ -1,9 +1,20 @@
-{{ partial "header" . }}
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+    <body id="page-top" class="index">
 
-<h1>FN-Hotcakes</h1>
+        {{ partial "nav.html" . }}
 
-<p>
-  Let try to get this working
-</p>
+        {{ partial "header.html" . }}
+        {{ partial "portfolio-grid.html" . }}
+        {{ partial "about.html" . }}
+        {{ partial "contact.html" . }}
 
-{{ partial "footer" . }}
+        {{ partial "footer.html" . }}
+        {{ partial "modals.html" . }}
+        {{ partial "js.html" . }}
+
+    </body>
+</html>

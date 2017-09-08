@@ -1,0 +1,9 @@
+{{ partial "header" . }}
+
+<h1>FN-Hotcakes</h1>
+
+<p>
+  Let try to get this working
+</p>
+
+{{ partial "footer" . }}
