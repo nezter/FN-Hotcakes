@@ -48,7 +48,7 @@ theme = "hugo-freelancer-theme"
         # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
         # at the root of this Hugo site.
         # For more informtion take a look at the README.
-        title = "Patches"
+        title = "Our FN-Hotcakes Sweetness"
 
         [params.portfolio.modal]
             client = "Name"
@@ -107,11 +107,25 @@ theme = "hugo-freelancer-theme"
             # for more icons. The icons are represented by their corresponding
             # CSS class.
             [[params.footer.social.networks]]
-                icon = "fa-github"
+                icon = "fa-etsy"
                 link = ""
 
             [[params.footer.social.networks]]
-                icon = "fa-stack-overflow"
+                icon = "fa-facebook-square"
+                link=  ""
+            [[params.footer.social.networks]]
+                icon = "fa-twitter-square"
+                link = ""
+
+            [[params.footer.social.networks]]
+                icon = "fa-instagram"
+                link=  ""
+            [[params.footer.social.networks]]
+                icon = "fa-pinterest"
+                link = ""
+
+            [[params.footer.social.networks]]
+                icon = "fa-snapchat"
                 link=  ""
 
 
