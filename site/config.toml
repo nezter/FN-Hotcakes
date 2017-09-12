@@ -108,22 +108,19 @@ theme = "hugo-freelancer-theme"
             # CSS class.
             [[params.footer.social.networks]]
                 icon = "fa-etsy"
-                link = ""
-
+                link = "https://www.etsy.com/shop/FNhotcakes?ref=l2-shopheader-name"
             [[params.footer.social.networks]]
                 icon = "fa-facebook-square"
-                link=  ""
+                link=  "https://www.facebook.com/fnhotcakes/"
             [[params.footer.social.networks]]
                 icon = "fa-twitter-square"
-                link = ""
-
+                link = "https://twitter.com/FN_Hotcakes"
             [[params.footer.social.networks]]
                 icon = "fa-instagram"
-                link=  ""
+                link=  "https://www.instagram.com/fn_hotcakes"
             [[params.footer.social.networks]]
                 icon = "fa-pinterest"
-                link = ""
-
+                link = "https://www.pinterest.com/fnhotcakes"
             [[params.footer.social.networks]]
                 icon = "fa-snapchat"
                 link=  ""
